@@ -1,0 +1,19 @@
+.mousemove{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid #ff0000;
+    position: absolute;
+    transform: translate(-50%, -50%);
+
+    /* left: ; */
+z-index: -1;
+    /* transform: translateY(-20%);     */
+    transition: 0s ease;
+}
+body{
+    overflow-x: hiscroo+ den;
+}
+.click_event{
+    z-index: 1000;
+}
